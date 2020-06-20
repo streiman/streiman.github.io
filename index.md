@@ -9,6 +9,7 @@ Harry Potter ist die Lieblingsfigur meines Sohnes. Harry Potter ist elf Jahre al
 * wizard
 * fights the evil
 
-## A quote
+Harry Potter sagt:
 
-> "I’ll be in my bedroom, making no noise and pretending I’m not there."
+> I’ll be in my bedroom, making no noise
+> and pretending I’m not there.
