@@ -8,3 +8,8 @@ Harry Potter ist die Lieblingsfigur meines Sohnes. Harry Potter ist elf Jahre al
 * orphan
 * wizard
 * fights the evil
+
+Harry Potter sagt:
+
+> I’ll be in my bedroom, making no noise
+> and pretending I’m not there.
